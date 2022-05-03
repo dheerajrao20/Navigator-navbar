@@ -25,7 +25,11 @@ Watch This on YouTube:
   </a>
   
   <h2>Preview...</h2>
-  <img src="https://github.com/dheerajrao20/Dashboard-Sidebar/blob/main/Images/thumbnail.png?raw=true" />
+  <img src="https://github.com/dheerajrao20/Navigator-navbar/blob/main/Images/nav.png?raw=true" />
+  <h2>Video Preview</h2>
+  <a href="https://user-images.githubusercontent.com/89007097/166406514-d591ae08-8d4e-42ce-89b5-dda5619c2775.mp4">https://user-images.githubusercontent.com/89007097/166406514-d591ae08-8d4e-42ce-89b5-dda5619c2775.mp4</a>
+
+
   
 # 🎇How To Contribute 🎇
 
